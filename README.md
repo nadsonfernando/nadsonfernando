@@ -2,10 +2,10 @@
 
 **About me**
 
- 1. 😄 I am a software architect, I worked in some large and small companies.
- 2. 🔭 I’m currently working on Pareto group, a IA company.
- 3. 💬 I love Javascript stack
- 4. 🌱 Always learning and evolving every day
+ 1. 😄  I am a software architect, I worked in some large and small companies.
+ 2. 🔭  I’m currently working on Pareto group, a IA company.
+ 3. 💬  I love Javascript stack
+ 4. 🌱  Always learning and evolving every day
 
 
 
