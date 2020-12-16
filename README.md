@@ -6,4 +6,4 @@
 🔭 I’m currently working on Pareto group, a IA company.
 💬 I love Javascript stack
 🌱 Always learning and evolving every day
-![Alt Text](https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif)
+![Alt Text](https://i.imgur.com/5jWcXif.gif)
