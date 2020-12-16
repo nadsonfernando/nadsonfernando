@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**Hi, welcome to my Github
-
-About me
+**About me**
 
 😄 I am a software architect, I worked in some large and small companies.
 🔭 I’m currently working on Pareto group, a IA company.
