@@ -2,7 +2,7 @@
 
 **About me**
 
- 1. 😄  I am a software architect, I worked in some large and small companies.
+ 1. 😄  I'm a Software Engineer, I worked in some large and small companies.
  3. 💬  I like it a lot Javascript stack.
  4. 🌱  Always learning and evolving every day.
 
